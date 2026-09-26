@@ -2,41 +2,41 @@
   "_comment": "Edit this file to change any text on the invitation. The page reads it at load time. After editing, just reload the page (or redeploy to Vercel).",
 
   "meta": {
-    "pageTitle": "John & Mohra · Wedding Invitation",
-    "description": "بكل الفرح ندعوكم لمشاركتنا يوم إكليلنا · John & Mohra · 26 May 2026",
-    "ogTitle": "John & Mohra — Wedding Invitation",
-    "ogDescription": "بكل الفرح ندعوكم لمشاركتنا يوم إكليلنا · 26 May 2026",
-    "ogImageAlt": "John & Mohra Wedding · 26 May 2026"
+    "pageTitle": "Yonan & Helana · Wedding Invitation",
+    "description": "بكل الفرح ندعوكم لمشاركتنا يوم إكليلنا · يونان و هيلانة · 1 أكتوبر 2026",
+    "ogTitle": "Yonan & Helana — Wedding Invitation",
+    "ogDescription": "بكل الفرح ندعوكم لمشاركتنا يوم إكليلنا · 1 أكتوبر 2026",
+    "ogImageAlt": "Yonan & Helana Wedding · 1 October 2026"
   },
 
   "splash": {
-    "monogramLeft": "J",
+    "monogramLeft": "Y",
     "monogramAmp": "&",
-    "monogramRight": "M",
-    "coupleName": "John & Mohra",
+    "monogramRight": "H",
+    "coupleName": "Yonan & Helana",
     "subtitle": "Wedding · 2026"
   },
 
   "cover": {
     "prelude": "Save the Date",
     "script": "together with their families",
-    "firstName": "John",
+    "firstName": "Yonan",
     "amp": "&",
-    "secondName": "Mohra",
-    "date": "26 · 05 · 2026",
+    "secondName": "Helana",
+    "date": "01 · 10 · 2026",
     "photoCaption": "— with love —",
     "envelopeAriaLabel": "Open invitation · افتح الدعوة",
     "tapHintAr": "اضغط لفتح الدعوة",
     "tapHintEn": "tap to open",
-    "sealMonogram": "J&M"
+    "sealMonogram": "Y&H"
   },
 
   "hero": {
     "eyebrow": "Wedding Invitation",
-    "firstName": "John",
+    "firstName": "Yonan",
     "amp": "&",
-    "secondName": "Mohra",
-    "ariaLabel": "John and Mohra",
+    "secondName": "Helana",
+    "ariaLabel": "Yonan and Helana",
     "verseText": "«وَأُعْطِيهِمْ قَلْبًا وَاحِدًا وَطَرِيقًا وَاحِدًا»",
     "verseRef": "إرميا ٣٢ : ٣٩"
   },
@@ -44,16 +44,16 @@
   "welcome": {
     "eyebrowHtml": "<span lang=\"en\">A Warm Welcome</span> · أهلاً بكم",
     "titleHtml": "يسرّنا <span class=\"accent\">حضوركم</span>",
-    "lead": "بكل الفرح وبركة من الله ندعوكم لمشاركتنا فرحة يوم إكليلنا. وجودكم بيننا هو أجمل هدية وأغلى ذكرى تبقى معنا للأبد."
+    "lead": "يسعدنا دعوتكم لمشاركة فرحتنا في حفل زفافنا. مراسم الإكليل المقدس في كنيسة السيدة العذراء مريم بمسرة، يليها الاستقبال في قاعة جروب البربري. حضوركم يسعدنا."
   },
 
   "saveTheDate": {
     "eyebrow": "Save the Date",
-    "titleHtml": "<span lang=\"en\">Tuesday</span> · <span class=\"accent\">الثلاثاء</span>",
-    "dayNumber": "26",
+    "titleHtml": "<span lang=\"en\">Thursday</span> · <span class=\"accent\">الخميس</span>",
+    "dayNumber": "01",
     "dayLabel": "Day",
-    "monthNumber": "05",
-    "monthLabel": "May",
+    "monthNumber": "10",
+    "monthLabel": "October",
     "yearNumber": "26",
     "yearLabel": "Year",
     "fullDate": "~ Two Thousand & Twenty Six ~",
@@ -64,7 +64,7 @@
   "countdown": {
     "eyebrow": "The Countdown Begins",
     "titleHtml": "Until <span class=\"accent\">our day</span>",
-    "weddingDateISO": "2026-05-26T17:00:00+02:00",
+    "weddingDateISO": "2026-10-01T18:00:00+02:00",
     "labels": {
       "days": "Days",
       "hours": "Hours",
@@ -78,18 +78,18 @@
   "events": [
     {
       "title": "الكنيسة",
-      "time": "5:00 PM",
+      "time": "5:30 PM",
       "whereLine1Html": "كنيسة السيدة العذراء مريم",
-      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">الزيتون</span>",
-      "mapUrl": "https://maps.app.goo.gl/HijsSyZUk8gY1nZE8",
+      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">مسرة</span>",
+      "mapUrl": "https://maps.app.goo.gl/CThfWG5qRAsmxsnFA",
       "mapLabel": "لوكيشن الكنيسة"
     },
     {
       "title": "القاعة",
       "time": "7:00 PM",
-      "whereLine1Html": "<span lang=\"en\">Lareine</span>",
-      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">نادي <span lang=\"en\">Sun Rice</span></span>",
-      "mapUrl": "https://maps.app.goo.gl/NGiSgHcdGLAQmbJ47",
+      "whereLine1Html": "قاعة جروب البربري",
+      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">بعد نفق عبود</span>",
+      "mapUrl": "https://maps.google.com/?q=30.102379,31.247862",
       "mapLabel": "لوكيشن القاعة"
     }
   ],
@@ -104,29 +104,43 @@
     "dotsAriaLabel": "Photo indicators",
     "dotLabelTemplate": "Photo {n} of {total}",
     "photos": [
-      { "base": "images/image7", "alt": "Photo 6" },
-      { "base": "images/image6", "alt": "Photo 5" },
-      { "base": "images/image5", "alt": "Photo 4" },
-      { "base": "images/image4", "alt": "Photo 3" },
-      { "base": "images/image3", "alt": "Photo 2" },
-      { "base": "images/image2", "alt": "Photo 1" }
+      { "base": "images/newImage4", "alt": "Photo 4" },
+      { "base": "images/newImage3", "alt": "Photo 3" },
+      { "base": "images/newImage2", "alt": "Photo 2" },
+      { "base": "images/newImage1", "alt": "Photo 1" }
     ]
   },
 
   "message": {
     "eyebrowHtml": "<span lang=\"en\">A Note From Us</span> · رسالة منّا",
     "titleHtml": "من <span class=\"accent\">العريس والعروسة</span>",
-    "lead": "نتشرف بحضوركم ومشاركتكم فرحتنا في يوم إكليلنا، ووجودكم معانا هيكمل فرحتنا ويخلي اليوم أجمل بكتير."
+    "lead": "يسعدنا دعوتكم لمشاركة فرحتنا في حفل زفافنا، ووجودكم معانا هيكمل فرحتنا ويخلي اليوم أجمل بكتير."
   },
 
   "timeline": {
     "eyebrowHtml": "<span lang=\"en\">The Day</span> · جدول اليوم",
     "titleHtml": "Wedding Day <span class=\"accent\">Schedule</span>",
     "items": [
-      { "time": "5:00 PM", "title": "الإكليل المقدّس", "descHtml": "بداية مراسم الإكليل في كنيسة السيدة العذراء مريم بالزيتون." },
-      { "time": "6:30 PM", "title": "استراحة وتنقل", "descHtml": "انتقال الضيوف من الكنيسة إلى قاعة الاستقبال." },
-      { "time": "7:00 PM", "title": "الاستقبال والاحتفال", "descHtml": "بداية الاحتفال في <span lang=\"en\">Lareine</span> — نادي <span lang=\"en\">Sun Rice</span>." },
-      { "time": "8:30 PM", "title": "العشاء والرقص", "descHtml": "عشاء فاخر مع موسيقى ورقص حتى نهاية الليل." }
+      {
+        "time": "5:30 PM",
+        "title": "الإكليل المقدّس",
+        "descHtml": "بداية مراسم الإكليل في كنيسة السيدة العذراء مريم بمسرة."
+      },
+      {
+        "time": "6:30 PM",
+        "title": "استراحة وتنقل",
+        "descHtml": "انتقال الضيوف من الكنيسة إلى قاعة جروب البربري."
+      },
+      {
+        "time": "7:00 PM",
+        "title": "الاستقبال والاحتفال",
+        "descHtml": "بداية الاحتفال في قاعة جروب البربري، بجوار نادي اسكو المظلات."
+      },
+      {
+        "time": "8:30 PM",
+        "title": "العشاء والرقص",
+        "descHtml": "عشاء فاخر مع موسيقى ورقص حتى نهاية الليل."
+      }
     ]
   },
 
@@ -134,10 +148,22 @@
     "eyebrowHtml": "<span lang=\"en\">Good to Know</span> · معلومات للضيوف",
     "titleHtml": "قبل ما <span class=\"accent\">تيجوا</span>",
     "items": [
-      { "title": "Dress Code", "descHtml": "إطلالة رسمية أنيقة<br><span lang=\"en\" style=\"color:var(--gold-deep);\">Smart Formal</span>" },
-      { "title": "Parking",    "descHtml": "يوجد موقف بالنادي<br><span lang=\"en\" style=\"color:var(--gold-deep);\">Available on-site</span>" },
-      { "title": "Family",     "descHtml": "العائلة كلها مرحب بها<br><span lang=\"en\" style=\"color:var(--gold-deep);\">All ages welcome</span>" },
-      { "title": "Gifts",      "descHtml": "حضوركم أغلى هدية<br><span lang=\"en\" style=\"color:var(--gold-deep);\">Your presence is the gift</span>" }
+      {
+        "title": "Dress Code",
+        "descHtml": "إطلالة رسمية أنيقة<br><span lang=\"en\" style=\"color:var(--gold-deep);\">Smart Formal</span>"
+      },
+      {
+        "title": "Parking",
+        "descHtml": "يوجد موقف بالقاعة<br><span lang=\"en\" style=\"color:var(--gold-deep);\">Available on-site</span>"
+      },
+      {
+        "title": "Family",
+        "descHtml": "العائلة كلها مرحب بها<br><span lang=\"en\" style=\"color:var(--gold-deep);\">All ages welcome</span>"
+      },
+      {
+        "title": "Gifts",
+        "descHtml": "حضوركم أغلى هدية<br><span lang=\"en\" style=\"color:var(--gold-deep);\">Your presence is the gift</span>"
+      }
     ]
   },
 
@@ -158,15 +184,15 @@
     "thanksDefaultName": "صديقنا",
     "thanksYesDetailPrefix": "بنستناك مع ",
     "thanksYesDetailMid": " ضيوف · ",
-    "thanksYesDetailDate": "26 May 2026",
+    "thanksYesDetailDate": "1 October 2026",
     "thanksNoDetail": "هنفتقدك معانا، ودعواتك أغلى من حضورك"
   },
 
   "signature": {
     "scriptTop": "With love,",
     "note": "شكراً لإنكم هتكونوا جزء من أحلى يوم في حياتنا. محبتكم ودعواتكم أغلى هدية ممكن نستلمها.",
-    "scriptBottom": "John & Mohra",
-    "date": "26 · 05 · 2026"
+    "scriptBottom": "Yonan & Helana",
+    "date": "01 · 10 · 2026"
   },
 
   "personalization": {
@@ -175,17 +201,17 @@
   },
 
   "share": {
-    "title": "John & Mohra — Wedding Invitation",
-    "message": "بكل الفرح ندعوكم لمشاركتنا فرحة إكليلنا · John & Mohra · 26 May 2026",
+    "title": "Yonan & Helana — Wedding Invitation",
+    "message": "بكل الفرح ندعوكم لمشاركتنا فرحة إكليلنا · يونان و هيلانة · 1 أكتوبر 2026",
     "copiedMessage": "✦ تم نسخ رابط الدعوة"
   },
 
   "calendar": {
-    "title": "John & Mohra · Wedding",
-    "details": "5:00 PM Church (السيدة العذراء مريم - الزيتون) · 7:00 PM Reception (Lareine - Sun Rice)",
+    "title": "Yonan & Helana · Wedding",
+    "details": "5:30 PM Church (كنيسة السيدة العذراء مريم - مسرة) · 7:00 PM Reception (قاعة جروب البربري - بعد نفق عبود)",
     "location": "Cairo, Egypt",
-    "startUTC": "20260526T150000Z",
-    "endUTC":   "20260526T210000Z",
-    "icsFileName": "John-Mohra-Wedding.ics"
+    "startUTC": "20261001T160000Z",
+    "endUTC": "20261001T220000Z",
+    "icsFileName": "Yonan-Helana-Wedding.ics"
   }
 }
