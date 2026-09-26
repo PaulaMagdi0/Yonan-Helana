@@ -1,6 +1,8 @@
+The markup, styles, animations, music, and RSVP form live in `index.html`; editable invitation copy lives in `content.json`. No build step, no backend, no dependencies. Open it in a browser and it works.
+
 # Yonan & Helana — Wedding Invitation
 
-A single-file, bilingual (Arabic + English, RTL primary) wedding invitation web page for **Yonan & Helana · 1 October 2026**.
+A bilingual (Arabic + English, RTL primary) wedding invitation web page for **Yonan & Helana · 1 October 2026**.
 
 Everything — markup, styles, animations, music, RSVP form — lives in `index.html`. No build step, no backend, no dependencies. Open it in a browser and it works.
 
@@ -112,7 +114,7 @@ It's a static page — host it anywhere:
 
 On Vercel, `vercel.json` applies a strict CSP, HSTS, `Permissions-Policy`, and a 1-year `immutable` cache for `.avif/.webp/.jpg/.png/.svg/.woff2`. Other hosts will need an equivalent config to get the same security and caching behavior.
 
-The site is currently configured for `https://jhon-mohra.vercel.app/` (see the `og:` meta tags and the `img-src` in the CSP). Update those URLs if you move to a new domain.
+The site is currently configured for `https://yonan-helana.vercel.app/` (see the `og:` meta tags and the `img-src` in the CSP). Update those URLs if you move to a new domain.
 
 ### Regenerating image variants
 

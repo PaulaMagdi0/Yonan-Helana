@@ -64,7 +64,7 @@
   "countdown": {
     "eyebrow": "The Countdown Begins",
     "titleHtml": "Until <span class=\"accent\">our day</span>",
-    "weddingDateISO": "2026-10-01T18:00:00+02:00",
+    "weddingDateISO": "2026-10-01T17:30:00+03:00",
     "labels": {
       "days": "Days",
       "hours": "Hours",
@@ -80,7 +80,7 @@
       "title": "الكنيسة",
       "time": "5:30 PM",
       "whereLine1Html": "كنيسة السيدة العذراء مريم",
-      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">مسرة</span>",
+      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">بمسرة</span>",
       "mapUrl": "https://maps.app.goo.gl/CThfWG5qRAsmxsnFA",
       "mapLabel": "لوكيشن الكنيسة"
     },
@@ -88,7 +88,7 @@
       "title": "القاعة",
       "time": "7:00 PM",
       "whereLine1Html": "قاعة جروب البربري",
-      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">بعد نفق عبود</span>",
+      "whereLine2Html": "<span style=\"color:var(--gold-deep);\">بعد كوبري عبود، قدام شوية على الشمال</span>",
       "mapUrl": "https://maps.google.com/?q=30.102379,31.247862",
       "mapLabel": "لوكيشن القاعة"
     }
@@ -134,7 +134,7 @@
       {
         "time": "7:00 PM",
         "title": "الاستقبال والاحتفال",
-        "descHtml": "بداية الاحتفال في قاعة جروب البربري، بجوار نادي اسكو المظلات."
+        "descHtml": "بداية الاحتفال في قاعة جروب البربري، بعد كوبري عبود، قدام شوية على الشمال."
       },
       {
         "time": "8:30 PM",
@@ -208,9 +208,9 @@
 
   "calendar": {
     "title": "Yonan & Helana · Wedding",
-    "details": "5:30 PM Church (كنيسة السيدة العذراء مريم - مسرة) · 7:00 PM Reception (قاعة جروب البربري - بعد نفق عبود)",
+    "details": "5:30 PM Church (كنيسة السيدة العذراء مريم بمسرة) · 6:30 PM Travel to hall · 7:00 PM Reception (قاعة جروب البربري، بعد كوبري عبود، قدام شوية على الشمال) · 8:30 PM Dinner & dancing",
     "location": "Cairo, Egypt",
-    "startUTC": "20261001T160000Z",
+    "startUTC": "20261001T143000Z",
     "endUTC": "20261001T220000Z",
     "icsFileName": "Yonan-Helana-Wedding.ics"
   }
